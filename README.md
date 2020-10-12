@@ -1,10 +1,10 @@
-# Interchain Standards
+# Standard Chain 
 
 ![banner](./assets/interchain-standards-image.jpg)
 
 ## Synopsis
 
-This repository is the canonical location for development and documentation of inter-chain standards utilised by the Cosmos network & interchain ecosystem.
+This repository is the canonical location for development and documentation of inter-chain standards utilised by the PentOS network & interchain ecosystem.
 
 It shall be used to consolidate design rationale, protocol semantics, and encoding descriptions for the inter-blockchain protocol (IBC), including both the core transport, authentication, & ordering layer (IBC/TAO) and the application layers describing packet encoding & processing semantics (IBC/APP).
 
@@ -26,7 +26,7 @@ Check out a list of [frequently asked questions](./ibc/6_IBC_FAQ.md).
 
 Please see [ICS 1](spec/ics-001-ics-standard) for a description of what a standard entails.
 
-To propose a new standard, [open an issue](https://github.com/cosmos/ics/issues/new).
+To propose a new standard, [open an issue](https://github.com/PentOS/ics/issues/new).
 
 To start a new standardisation document, copy the [template](spec/ics-template.md) and open a PR.
 
